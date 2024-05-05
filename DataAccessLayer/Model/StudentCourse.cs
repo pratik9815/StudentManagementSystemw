@@ -8,6 +8,7 @@ namespace DataAccessLayer.Model
 {
     public class StudentCourse
     {
+        public int StudentCourse_Id { get; set; }
         public int Student_Id { get; set; }
         public Student Student { get; set; }
 
