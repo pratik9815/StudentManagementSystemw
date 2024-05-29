@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DataAccessLayer.Model.User;
+using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,10 +15,12 @@ namespace DataAccessLayer.Model
         public int Age { get; set; }
         public string Phone { get; set; }
         public string Address { get; set; }
-        public string UserName { get; set; }
+        public Gender Gender { get; set; }
+        public DateTime DOB { get; set; }
         public ICollection<StudentCourse> StudentCourses { get; set; }
 
         public ICollection<Grade> Grades { get; set; }
+        public string Email { get; set; }
 
     }
 }

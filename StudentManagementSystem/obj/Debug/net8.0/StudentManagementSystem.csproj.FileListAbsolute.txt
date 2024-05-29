@@ -9,6 +9,10 @@ C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debu
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Azure.Core.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -21,6 +25,9 @@ C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debu
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -134,6 +141,7 @@ C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debu
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.RazorAssemblyInfo.cache
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.RazorAssemblyInfo.cs
+C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.sourcelink.json
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
 C:\ASP.NET CORE Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
