@@ -47,7 +47,7 @@ namespace StudentManagementSystem.Controllers
 
             if (user.userType == UserType.Student)
             {
-                _context.Students.Add(student);
+                _context.Students.Add(student); 
                 await _context.SaveChangesAsync();
             }
 

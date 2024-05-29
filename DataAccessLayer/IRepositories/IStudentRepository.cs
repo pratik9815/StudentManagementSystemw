@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Model;
+﻿using DataAccessLayer.Command.StudentCommand;
+using DataAccessLayer.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +10,10 @@ namespace DataAccessLayer.IRepositories
 {
     public interface IStudentRepository
     {
-        Task<IEnumerable<Student>> GetAll();
-        Task<Student> GetById(int id);
-        Task<bool> Add(Student student);    
-
-
+        Task<IEnumerable<GetStudent>> GetAllStudents();
+        Task<GetStudent> GetStudentById(int id);
+        Task AddStudent(AddStudent student);    
+        Task RemoveStudent(int id);
+        Task UpdateStudent(UpdateStudent student);
     }
 }

@@ -54,7 +54,7 @@ builder.Services.AddAuthorization();
 
 //DI
 builder.Services.AddTransient<IStudentRepository, StudentRepository>();
-
+builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
@@ -77,6 +77,12 @@ app.UseOpenApi();
 app.UseSwaggerUi(options =>
 {
     options.Path = "/api";
+});
+
+app.UseCors(x =>{
+    x.AllowAnyHeader();
+    x.AllowAnyOrigin();
+    x.AllowAnyMethod();
 });
 
 app.UseAuthentication();
