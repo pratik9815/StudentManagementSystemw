@@ -1,22 +1,27 @@
 ﻿using DataAccessLayer.Model;
+using DataAccessLayer.Model.User;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataAccessLayer.DataContext
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
-        {
-            
-        }
+        { }   
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder); 
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<ApplicationUser>(au =>
+            {
+                au.HasKey(a => a.Id);
+
+                au.HasOne(a => a.Student)  
+                    .WithMany()             
+                    .HasForeignKey(a => a.Student_Id)  
+                    .IsRequired(false);    
+            });
 
             modelBuilder.Entity<Student>().HasKey(s => s.Student_Id);
             modelBuilder.Entity<Course>().HasKey(s => s.Course_Id);
@@ -24,10 +29,11 @@ namespace DataAccessLayer.DataContext
             modelBuilder.Entity<Teacher>().HasKey(d => d.Teacher_Id);
             modelBuilder.Entity<Grade>().HasKey(g => g.Grade_Id);
 
-            modelBuilder.Entity<StudentCourse>(sc =>
-            {
-                sc.HasKey(s => new { s.Student_Id , s.Course_Id});
-            });
+
+
+            modelBuilder.Entity<StudentCourse>().HasKey(sc => sc.StudentCourse_Id);
+
+            modelBuilder.Entity<TeacherCourse>().HasKey(tc => tc.TeacherCourse_Id);
 
             modelBuilder.Entity<StudentCourse>()
                 .HasOne<Student>(sc => sc.Student)
@@ -45,9 +51,14 @@ namespace DataAccessLayer.DataContext
                 .HasForeignKey(d => d.Department_Id);
 
             modelBuilder.Entity<Teacher>()
-                .HasMany(t => t.Courses)
+                .HasMany(t => t.TeacherCourses)
                 .WithOne(c => c.Teacher)
                 .HasForeignKey(c => c.Teacher_Id);
+
+            modelBuilder.Entity<Course>()
+                .HasMany(c => c.TeacherCourses)
+                .WithOne(tc => tc.Course)
+                .HasForeignKey(tc => tc.Course_Id);
 
 
             modelBuilder.Entity<Grade>()
@@ -59,6 +70,8 @@ namespace DataAccessLayer.DataContext
                 .HasOne(g => g.Course)
                 .WithMany(c => c.Grades)
                 .HasForeignKey(g => g.Course_Id);
+
+
         }
 
         public DbSet<Student> Students { get; set; }
@@ -67,6 +80,6 @@ namespace DataAccessLayer.DataContext
         public DbSet<Teacher> Teachers { get; set; }
         public DbSet<Grade> Grades { get; set; }
         public DbSet<Department> Departments { get; set; }
-
+        public DbSet<TeacherCourse> TeacherCourses { get; set; }
     }
 }
