@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccessLayer.Command.TeacherCommand;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,10 @@ namespace DataAccessLayer.IRepositories
 {
     public interface ITeacherRepository
     {
+        IEnumerable<GetTeachers> GetAllTeachers();
+        Task<GetTeacher> GetTeacherById(int id);
+        Task AddTeacher(AddTeacher teacher);
+        Task RemoveTeacher(int id);
+        Task UpdateTeacher(UpdateTeacher teacher);
     }
 }

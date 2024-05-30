@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using StudentManagementSystem.Services;
 using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -53,9 +54,13 @@ builder.Services.AddAuthentication(x =>
 builder.Services.AddAuthorization();
 
 //DI
-builder.Services.AddTransient<IStudentRepository, StudentRepository>();
-builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
-builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+//builder.Services.AddTransient<IStudentRepository, StudentRepository>();
+//builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
+//builder.Services.AddTransient<ICourseRepository, CourseRepository>();   
+//builder.Services.AddTransient<ITeacherRepository, TeacherRepository>();
+//builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+
+DependencyServices.DependencyInjection(builder.Services);
 
 var app = builder.Build();
 

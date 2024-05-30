@@ -35,6 +35,8 @@ namespace DataAccessLayer.DataContext
 
             modelBuilder.Entity<TeacherCourse>().HasKey(tc => tc.TeacherCourse_Id);
 
+            modelBuilder.Entity<DepartmentCourse>().HasKey(dc => dc.DepartmentCourse_Id);
+
             modelBuilder.Entity<StudentCourse>()
                 .HasOne<Student>(sc => sc.Student)
                 .WithMany(s => s.StudentCourses)
@@ -44,11 +46,6 @@ namespace DataAccessLayer.DataContext
                 .HasOne<Course>(sc => sc.Course)
                 .WithMany(c => c.StudentCourses)
                 .HasForeignKey(sc => sc.Course_Id);
-
-            modelBuilder.Entity<Course>()
-                .HasOne(c => c.Department)
-                .WithMany(d => d.Courses)
-                .HasForeignKey(d => d.Department_Id);
 
             modelBuilder.Entity<Teacher>()
                 .HasMany(t => t.TeacherCourses)
@@ -71,6 +68,17 @@ namespace DataAccessLayer.DataContext
                 .WithMany(c => c.Grades)
                 .HasForeignKey(g => g.Course_Id);
 
+            modelBuilder.Entity<DepartmentCourse>()
+                .HasOne(dc => dc.Course)
+                .WithMany(c => c.DepartmentCourses)
+                .HasForeignKey(dc => dc.Course_Id);
+
+            modelBuilder.Entity<DepartmentCourse>()
+                .HasOne(dc => dc.Department)
+                .WithMany(c => c.DepartmentCourses)
+                .HasForeignKey(dc => dc.Department_Id);
+
+
 
         }
 
@@ -81,5 +89,6 @@ namespace DataAccessLayer.DataContext
         public DbSet<Grade> Grades { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<TeacherCourse> TeacherCourses { get; set; }
+        public DbSet<DepartmentCourse> DepartmentsCourses { get; set; }    
     }
 }

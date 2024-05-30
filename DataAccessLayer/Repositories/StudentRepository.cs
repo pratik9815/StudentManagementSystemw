@@ -20,7 +20,7 @@ namespace DataAccessLayer.Repositories
         }
         public async Task<IEnumerable<GetStudent>> GetAllStudents()
         {
-            var studnet =  await _context.Students.Select(x => new GetStudent
+            var studnet =  await _context.Students.AsNoTracking().Select(x => new GetStudent
             {
                 Student_Id = x.Student_Id,
                 Name = x.Name,
@@ -28,7 +28,8 @@ namespace DataAccessLayer.Repositories
                 Age = x.Age,
                 Email = x.Email,
                 Gender = x.Gender,
-                DOB = x.DOB
+                DOB = x.DOB,
+                Phone = x.Phone
                 
             }).ToListAsync();
             return studnet;
@@ -36,17 +37,19 @@ namespace DataAccessLayer.Repositories
 
         public async Task<GetStudent> GetStudentById(int id)
         {
-            var student = await _context.Students.Where(x => x.Student_Id == id).Select(x => new GetStudent
-            {
-                Student_Id = x.Student_Id,
-                Name = x.Name,
-                Address = x.Address,
-                Age = x.Age,
-                Email = x.Email,
-                Gender = x.Gender,
-                DOB = x.DOB
-            }).FirstOrDefaultAsync();
-            return student;
+            var student = await _context.Students.AsNoTracking().Where(x => x.Student_Id == id)
+                .Select(x => new GetStudent
+                {
+                    Student_Id = x.Student_Id,
+                    Name = x.Name,
+                    Address = x.Address,
+                    Age = x.Age,
+                    Email = x.Email,
+                    Gender = x.Gender,
+                    DOB = x.DOB,
+                    Phone = x.Phone
+                }).FirstOrDefaultAsync();
+                return student;
         }
 
         public async Task AddStudent(AddStudent student)

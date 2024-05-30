@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccessLayer.Model.User;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,9 +16,10 @@ namespace DataAccessLayer.Model
         public string Course_Description { get; set; }
         public ICollection<StudentCourse> StudentCourses { get; set; }
 
-        public int Department_Id { get; set; }
-        public Department Department { get; set; }
+        //public int Department_Id { get; set; }
+        //public Department Department { get; set; }
 
+        public ICollection<DepartmentCourse> DepartmentCourses { get; set; }
         public ICollection<TeacherCourse> TeacherCourses { get; set; }  
         
         public ICollection<Grade> Grades { get; set; }

@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.DataContext;
+﻿using DataAccessLayer.Command.GradeCommand;
+using DataAccessLayer.DataContext;
 using DataAccessLayer.IRepositories;
 
 namespace DataAccessLayer.Repositories
@@ -11,5 +12,14 @@ namespace DataAccessLayer.Repositories
             _context = context;
         }
 
+        public IEnumerable<GetGrades> GetAllGrades()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<GetGrade> GetGradeById(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

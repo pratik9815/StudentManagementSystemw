@@ -3,144 +3,52 @@
   "WorkspaceRootPath": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\studentcommand\\getstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\studentcommand\\getstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\studentcommand\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\studentcommand\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\irepositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\departmentcommand\\adddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\departmentcommand\\adddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\services\\tokengeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\services\\tokengeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\usercommand\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\usercommand\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\services\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\services\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\usercommand\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\usercommand\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\irepositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\irepositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\teachercommand\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\teachercommand\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\teachercommand\\getteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\teachercommand\\getteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\teachercommand\\updateteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\teachercommand\\updateteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\irepositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\asp.net core project\\studentmanagementsystem\\studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA026D72-38AD-40D4-A475-02FBEFA7EFF8}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\asp.net core project\\studentmanagementsystem\\dataaccesslayer\\command\\coursecommand\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66FD6CD-25E6-4137-879D-964653D46FFF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\command\\coursecommand\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,8 +58,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:37:43.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTeacher.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\UpdateTeacher.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\TeacherCommand\\UpdateTeacher.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\UpdateTeacher.cs",
+              "RelativeToolTip": "DataAccessLayer\\Command\\TeacherCommand\\UpdateTeacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:26:01.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetTeachers.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\GetTeachers.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\TeacherCommand\\GetTeachers.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\GetTeachers.cs",
+              "RelativeToolTip": "DataAccessLayer\\Command\\TeacherCommand\\GetTeachers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:22:46.976Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -161,449 +108,129 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTeacher.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\AddTeacher.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\TeacherCommand\\AddTeacher.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\TeacherCommand\\AddTeacher.cs",
+              "RelativeToolTip": "DataAccessLayer\\Command\\TeacherCommand\\AddTeacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:25:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Department.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Department.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:25:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:24:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Teacher.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Teacher.cs",
+              "RelativeToolTip": "DataAccessLayer\\Model\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:23:45.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:21:24.145Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:16:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwDcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:16:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCourse.cs",
+              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\CourseCommand\\AddCourse.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\CourseCommand\\AddCourse.cs",
+              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\CourseCommand\\AddCourse.cs",
+              "RelativeToolTip": "DataAccessLayer\\Command\\CourseCommand\\AddCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:49.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetStudent.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\StudentCommand\\GetStudent.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\StudentCommand\\GetStudent.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\StudentCommand\\GetStudent.cs",
-              "RelativeToolTip": "DataAccessLayer\\Command\\StudentCommand\\GetStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:17:48.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:21:43.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\StudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:21:14.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Student.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Student.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\Student.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:44:27.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\IStudentRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IStudentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\IRepositories\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:12:50.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:07:30.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T09:04:48.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\UOW\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UOW\\IUnitOfWork.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\UOW\\IUnitOfWork.cs",
-              "RelativeToolTip": "DataAccessLayer\\UOW\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:15:40.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\UOW\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UOW\\UnitOfWork.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\UOW\\UnitOfWork.cs",
-              "RelativeToolTip": "DataAccessLayer\\UOW\\UnitOfWork.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:15:55.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswFQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:22:54.359Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ApplicationUserController.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\ApplicationUserController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\ApplicationUserController.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\ApplicationUserController.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Controllers\\ApplicationUserController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T12:43:56.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\IDepartmentRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IDepartmentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\IRepositories\\IDepartmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:13:40.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateStudent.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\StudentCommand\\UpdateStudent.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\StudentCommand\\UpdateStudent.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\StudentCommand\\UpdateStudent.cs",
-              "RelativeToolTip": "DataAccessLayer\\Command\\StudentCommand\\UpdateStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T07:16:08.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddDepartment.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\DepartmentCommand\\AddDepartment.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\DepartmentCommand\\AddDepartment.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\DepartmentCommand\\AddDepartment.cs",
-              "RelativeToolTip": "DataAccessLayer\\Command\\DepartmentCommand\\AddDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T09:21:23.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Department.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Department.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Department.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:57:42.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Teacher.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Teacher.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Teacher.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:56:05.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Grade.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Grade.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Grade.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\Grade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T06:38:07.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\Course.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\Course.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\Course.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:50:00.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TeacherCourse.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\TeacherCourse.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\TeacherCourse.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\TeacherCourse.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\TeacherCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:34:31.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TokenGeneratorService.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Services\\TokenGeneratorService.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Services\\TokenGeneratorService.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Services\\TokenGeneratorService.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Services\\TokenGeneratorService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T06:58:58.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.json",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
-              "RelativeToolTip": "StudentManagementSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T07:36:42.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\UserCommand\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\UserCommand\\CreateUserCommand.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\UserCommand\\CreateUserCommand.cs",
-              "RelativeToolTip": "DataAccessLayer\\Command\\UserCommand\\CreateUserCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T13:16:00.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\User\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Model\\User\\ApplicationUser.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Model\\User\\ApplicationUser.cs",
-              "RelativeToolTip": "DataAccessLayer\\Model\\User\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:17:57.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServiceContainer.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Services\\ServiceContainer.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Services\\ServiceContainer.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\Services\\ServiceContainer.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Services\\ServiceContainer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:54:48.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "StudentManagementSystem.csproj",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\StudentManagementSystem.csproj",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
-              "RelativeToolTip": "StudentManagementSystem\\StudentManagementSystem.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-25T16:59:49.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\DataContext\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:23:34.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AuthenticateRequest.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\UserCommand\\AuthenticateRequest.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Command\\UserCommand\\AuthenticateRequest.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Command\\UserCommand\\AuthenticateRequest.cs",
-              "RelativeToolTip": "DataAccessLayer\\Command\\UserCommand\\AuthenticateRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T13:44:10.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TeacherRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\TeacherRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\TeacherRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\TeacherRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\TeacherRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:22:43.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CourseRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\CourseRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\CourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:22:22.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GradeRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\GradeRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GradeRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Repositories\\GradeRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\GradeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:22:01.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IGradeRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IGradeRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\IGradeRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\IGradeRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\IRepositories\\IGradeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:14:43.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ITeacherRepository.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\ITeacherRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\ITeacherRepository.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\ITeacherRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\IRepositories\\ITeacherRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:14:26.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\ICourseRepository.cs",
               "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\IRepositories\\ICourseRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\IRepositories\\ICourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:13:19.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.Development.json",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\StudentManagementSystem\\appsettings.Development.json",
-              "RelativeToolTip": "StudentManagementSystem\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T17:11:46.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
-              "ToolTip": "C:\\ASP.NET CORE Project\\StudentManagementSystem\\DataAccessLayer\\Class1.cs",
-              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:19:25.3Z"
+              "WhenOpened": "2024-05-30T06:16:20.872Z",
+              "EditorCaption": ""
             }
           ]
         }
